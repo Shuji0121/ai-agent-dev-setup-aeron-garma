@@ -59,6 +59,7 @@ git --version
 **Purpose:** Bootcamp curriculum and learning guidance  
 **Functionality:** Retrieve week-specific information, learning paths  
 **Use Case:** Coordinate bootcamp assignments and provide context-aware help
+<img width="1197" height="800" alt="image" src="https://github.com/user-attachments/assets/a24cf40e-5aad-4fcf-b1e1-65cc08a9d4bc" />
 
 ---
 
@@ -66,6 +67,7 @@ git --version
 **Purpose:** Schedule management and meeting coordination  
 **Functionality:** Check availability, create bookings, manage conflicts  
 **Use Case:** Automate scheduling without leaving Claude chat
+<img width="1180" height="716" alt="image" src="https://github.com/user-attachments/assets/a6cd9df8-f4bc-419f-8598-833505464a5a" />
 
 ---
 
@@ -73,6 +75,7 @@ git --version
 **Purpose:** Direct GitHub repository interaction  
 **Functionality:** List repos, create issues, view commit history  
 **Use Case:** Automate GitHub workflows from Claude
+<img width="1310" height="1116" alt="image" src="https://github.com/user-attachments/assets/b7edeefa-6db2-473d-9fa2-bb2866a8a5f7" />
 
 ---
 
