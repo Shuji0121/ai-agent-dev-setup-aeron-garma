@@ -51,6 +51,7 @@ git --version
 **Purpose:** Random dice generation and MCP connectivity testing  
 **Functionality:** Roll dice with configurable sides (default: 6)  
 **Use Case:** Test tool-calling workflows, generate random numbers
+<img width="2558" height="1599" alt="image" src="https://github.com/user-attachments/assets/26eec53d-cec6-495f-845e-378ddd0c3817" />
 
 ---
 
