@@ -1,0 +1,20 @@
+﻿{
+  "mcpServers": {
+    "rolldice": {
+      "command": "node",
+      "args": ["C:\\Users\\Cedric\\GARMA-WEEK1\\mcp-servers\\rolldice\\index.js"]
+    },
+    "bootcamp-agent": {
+      "command": "node",
+      "args": ["C:\\Users\\Cedric\\GARMA-WEEK1\\mcp-servers\\bootcamp-agent\\index.js"]
+    },
+    "calendar-booking": {
+      "command": "node",
+      "args": ["C:\\Users\\Cedric\\GARMA-WEEK1\\mcp-servers\\calendar-booking\\index.js"]
+    },
+    "github": {
+      "command": "node",
+      "args": ["C:\\Users\\Cedric\\GARMA-WEEK1\\mcp-servers\\github\\index.js"]
+    }
+  }
+}
