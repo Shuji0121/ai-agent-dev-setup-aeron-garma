@@ -1,0 +1,11 @@
+{
+    "name": "calendar-booking-mcp-server",
+    "version": "1.0.0",
+    "description": "Calendar Booking MCP server",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}

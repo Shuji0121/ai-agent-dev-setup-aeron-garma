@@ -1,0 +1,11 @@
+{
+    "name": "rolldice-mcp-server",
+    "version": "1.0.0",
+    "description": "Simple MCP server that rolls dice",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}

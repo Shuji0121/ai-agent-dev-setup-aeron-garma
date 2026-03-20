@@ -1,0 +1,11 @@
+{
+    "name": "bootcamp-agent-mcp-server",
+    "version": "1.0.0",
+    "description": "Bootcamp AI Agent MCP server",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}
